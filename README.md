@@ -14,4 +14,4 @@ The goal was to transform raw OpenStreetMap (OSM) data into a high-integrity dat
 * **Environment**: VS Code & Jupyter Notebooks
 * **Cloud/DB**: AWS RDS, PostgreSQL/PostGIS
 * **Tools**: DBeaver, Git, AWS CLI
-* **Tableau Dashboard : https://public.tableau.com/views/jobcenters_berlin/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+* Tableau Dashboard : https://public.tableau.com/views/jobcenters_berlin/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
